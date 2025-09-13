@@ -9,7 +9,6 @@ where different projects may require different versions of libraries.
 
 
 ## Download and Install Miniconda
-***
 You can download Miniconda from the official Conda website:
 1. Go to the [Miniconda download page](https://docs.conda.io/en/latest/miniconda.html).
 2. Choose the appropriate version for your operating system (Windows, macOS, or Linux).
@@ -25,4 +24,3 @@ conda --version
 You should see the version of Conda printed in the terminal, indicating that Miniconda is installed and ready to use.
 
 # Conclusion
-***

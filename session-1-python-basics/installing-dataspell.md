@@ -8,7 +8,7 @@ As a student, you can get a free license for DataSpell through the JetBrains Stu
 ## Get a Free Student License
 To get a free student license for DataSpell, follow these steps:
 1. Go to the [JetBrains Student Program](https://www.jetbrains.com/community/education/)
-2. Click on the "Request Now" button.
+2. Scroll down and click on the "Request Now" button.
 ![request-now](media/license-request-now.png)
 
 
@@ -30,5 +30,3 @@ You can download DataSpell from the official JetBrains website:
 Congrats! You have successfully installed DataSpell on your computer.
 
 # Conclusion
-***
-
