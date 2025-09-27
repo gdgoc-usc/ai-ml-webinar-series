@@ -4,6 +4,8 @@ This session provides an overview of AI and Machine Learning projects, covering 
 ## What is an AI Project?
 
 An AI project typically involves using machine learning algorithms and data to solve real-world problems. These projects follow a structured approach from problem definition to deployment.
+
+Google Slides Link: [here](https://docs.google.com/presentation/d/1yAHYrHY--Jr2gGKuypxrVLsqWnoZop4jxuIFiBfvj_E/edit?usp=sharing)
 ## Typical AI Project Workflow
 
 1. **Problem Definition**: Clearly define what problem you're trying to solve
