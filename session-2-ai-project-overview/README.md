@@ -1,6 +1,6 @@
 # AI Project Overview
 
-This session provides an overview of AI and Machine Learning projects, covering the typical workflow, best practices, and common approaches used in the field.
+This session provides an overview of AI and Machine Learning projects, covering the typical workflow in the field.
 ## What is an AI Project?
 
 An AI project typically involves using machine learning algorithms and data to solve real-world problems. These projects follow a structured approach from problem definition to deployment.
